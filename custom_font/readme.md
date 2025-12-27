@@ -1,6 +1,6 @@
 # Add Custom Font in Shopify - No Code - Free Section
 
-[![Install N8N For Free](https://img.youtube.com/vi/sJBb0O0g6k8/0.jpg)](https://www.youtube.com/watch?v=sJBb0O0g6k8)
+[![Custom Font in Shopify](https://img.youtube.com/vi/sJBb0O0g6k8/0.jpg)](https://www.youtube.com/watch?v=sJBb0O0g6k8)
 
 Learn how to add custom fonts to any Shopify theme (including Dawn, Horizon, and more) without touching a single line of CSS! In this quick tutorial, I’ll show you how to use a FREE custom section to upload and apply any font you want—no paid apps, no newsletter sign-ups, and no coding required.
 
