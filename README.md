@@ -2,9 +2,9 @@
 
 A collection of free, high-quality, and customizable Shopify sections to enhance your theme's functionality. Developed by **Bilal Naseer** (WebSensePro), these sections are designed to be easily integrated into any Shopify 2.0 theme (Dawn, Debut, etc.) without requiring complex app subscriptions.
 
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-Shopify-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/bilalnaseer/shopify-sections?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-Shopify-blue?style=flat)
 
 ## 📂 Repository Contents
 
